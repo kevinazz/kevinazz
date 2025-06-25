@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...everything  
 - 🌱 I’m currently learning ...life
 - 💞️ I’m looking to collaborate on ... changing everything
-- 📫 How to reach me ... vaccum 
+- 📫 How to reach me ... vaccum
 
 <!---
 kevinazz/kevinazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
